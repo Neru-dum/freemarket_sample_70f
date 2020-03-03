@@ -23,4 +23,4 @@ Things you may want to cover:
 
 * ...
 
-takuya.kagase.haoka
+takuya.kagase.haoka.imoto
